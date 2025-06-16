@@ -85,6 +85,9 @@ We propose **MultiTalk** , a novel framework for audio-driven multi-person conve
 * May 29, 2025: We release the [Technique-Report](https://arxiv.org/abs/2505.22647) of **MultiTalk** 
 * May 29, 2025: We release the [project page](https://meigen-ai.github.io/multi-talk/) of **MultiTalk** 
 
+## 🌐 Community  Works
+- [Google Colab example](https://colab.research.google.com/drive/185OyRIpJDlpnRjhBRb7FnaRlq11BLZTa?usp=sharing), an exmaple for inference on A100 provided by [Braffolk](https://github.com/Braffolk).
+
 ## 📑 Todo List
 
 - [x] Release the technical report
